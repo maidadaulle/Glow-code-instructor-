@@ -1,0 +1,24 @@
+div{
+    padding: 40px;
+    margin: 40px;
+}
+
+img{
+    margin: 12px;
+}
+
+.dream-vacation{
+    background-color: blue;
+}
+
+.description{
+    background-color: aqua;
+}
+
+.images{
+    background-color: aquamarine;
+}
+
+.activities{
+    background-color: turquoise;
+}
